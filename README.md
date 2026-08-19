@@ -4,7 +4,7 @@ A responsive login interface built with React as a learning and portfolio projec
 
 ## Live Demo
 
-[View Live Demo](https://ayesha-c0de.github.io/my-react-app/)
+[View Live Demo](https://ayesha-c0de.github.io/react-login-page/)
 
 ## Technologies Used
 
